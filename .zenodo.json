@@ -1,0 +1,24 @@
+{
+  "title": "Prompt: Análise de Conteúdo para Revisão de Literatura",
+  "description": "Prompt operacional para conduzir análise de conteúdo (Bardin; Krippendorff) em revisões de literatura: triagem, PRISMA, codificação por segmento, saturação, confiabilidade e categorias finais. Integra a coleção de prompts de pesquisa acadêmica assistida por IA de Darci de Borba (Ipea).",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "language": "por",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Santos Júnior, Darci de Borba",
+      "affiliation": "Instituto de Pesquisa Econômica Aplicada (Ipea)",
+      "orcid": "0000-0001-9851-5034"
+    }
+  ],
+  "keywords": [
+    "análise de conteúdo",
+    "pesquisa acadêmica",
+    "revisão sistemática",
+    "Bardin",
+    "Krippendorff",
+    "inteligência artificial"
+  ],
+  "license": "mit"
+}
